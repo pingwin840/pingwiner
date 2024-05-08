@@ -1,5 +1,5 @@
-API_TOKEN = '7036527121:AAF_lk_04YLpBJiaiWXPuteTDAqWrvUjG_E'
-HUGGINGFACE_API_KEY = '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'
+API_TOKEN = 'YOUR_TELEGRAM_API_TOKEN'
+HUGGINGFACE_API_KEY = 'YOUR_HUGGINGFACE_API_TOKEN'
 welcomemessage = "Добро пожаловать в этот чат"
 adminnick = "@thekillersec"
 erroraimessage = "Произошла ошибка при обработке вашего запроса."
